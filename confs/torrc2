@@ -1,0 +1,3 @@
+PIDFile pids/tor2.pid
+DataDirectory data/tor2
+SocksPort 9061

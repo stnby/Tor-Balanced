@@ -1,0 +1,3 @@
+PIDFile pids/tor5.pid
+DataDirectory data/tor5
+SocksPort 9064

@@ -1,0 +1,3 @@
+PIDFile pids/tor6.pid
+DataDirectory data/tor6
+SocksPort 9065

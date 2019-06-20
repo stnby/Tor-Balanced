@@ -1,0 +1,3 @@
+PIDFile pids/tor4.pid
+DataDirectory data/tor4
+SocksPort 9063

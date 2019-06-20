@@ -1,0 +1,3 @@
+PIDFile pids/tor3.pid
+DataDirectory data/tor3
+SocksPort 9062
