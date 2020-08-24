@@ -1,4 +1,2 @@
 #!/bin/sh
-
-# go get github.com/darkhelmet/balance
-balance tcp -bind :4000 localhost:9060 localhost:9061 localhost:9062 localhost:9063 localhost:9064 localhost:9065
+~/go/bin/balance tcp -bind :9000 localhost:9001 localhost:9002 localhost:9003 localhost:9004 localhost:9005 localhost:9006 localhost:9007 localhost:9008 localhost:9009 localhost:9010 localhost:9011 localhost:9012 localhost:9013 localhost:9014 localhost:9015 localhost:9016 localhost:9017 localhost:9018 localhost:9019 localhost:9020 localhost:9021 localhost:9022 localhost:9023 localhost:9024 localhost:9025 localhost:9026 localhost:9027 localhost:9028 localhost:9029 localhost:9030 localhost:9031 localhost:9032 
